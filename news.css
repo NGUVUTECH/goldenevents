@@ -144,12 +144,12 @@ footer .logogolden{
         gap: 20px;
     }
 }
-@media only screen and (max-width: 670px){
+@media all and (max-device-width: 670px){
     header .logo{
         margin-left: 20px;
     }
 }
-@media only screen and (max-width: 640px){
+@media all and (max-device-width: 640px){
     .contenu-footer{
         display: grid;
     }
@@ -171,12 +171,12 @@ footer .logogolden{
         margin-left: initial;
     }
 }
-@media only screen and (max-width: 630px){
+@media all and (max-device-width: 630px){
     nav .contacts{
         display: none;
     }
 }
-@media only screen and (max-width: 500px){
+@media all and (max-device-width: 500px){
     aside{
         width: 330px;
     }
@@ -184,12 +184,12 @@ footer .logogolden{
         width: 330px;
     }
 }
-@media only screen and (max-width: 425px){
+@media all and (max-device-width: 425px){
     header .logo{
         margin-left: 5px;
     }
 }
-@media only screen and (max-width: 375px){
+@media all and (max-device-width: 375px){
     nav .news{
         display: none;
     }

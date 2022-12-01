@@ -1071,7 +1071,7 @@ footer .logogolden{
         margin-left: initial;
     }
 }
-@media only screen and (max-width: 610px){
+@media all and (max-device-width: 610px){
     .animation3{
         top: 20%;
         left: 6%;
@@ -1089,7 +1089,7 @@ footer .logogolden{
         font-size: x-large;
     }
 }
-@media only screen and (max-width: 407px){
+@media all and (max-device-width: 407px){
     .history{
         margin-left: 10px;
         margin-right: 10px;
