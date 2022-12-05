@@ -1059,9 +1059,7 @@ footer .logogolden{
         margin: auto;
     }
     footer .logogolden{
-        width: fit-content;
-        margin: auto;
-        margin-left: initial;
+        margin-left: auto;
     }
     .paragraphe27{
         border-top: 1px solid rgb(78, 78, 78);
